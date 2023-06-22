@@ -15,4 +15,9 @@ public void test2()
     System.out.println("hi this is jenkins1");
     System.out.println("hi this is jenkins3");
 }
+@Test
+public void test3()
+{
+    System.out.println(System.getProperty("PARAM"));
+}
 }
