@@ -20,4 +20,10 @@ public void test3()
 {
     System.out.println(System.getProperty("PARAM"));
 }
+
+@Test
+public void test3()
+{
+    System.out.println(System.getProperty("PARAM"));
+}
 }
