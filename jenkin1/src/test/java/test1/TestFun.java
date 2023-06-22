@@ -6,7 +6,7 @@ public class TestFun {
 @Test
 public void test1()
 {
-    System.out.print("hi this from test1");
+    System.out.println("hi this from test1");
 }
 
 @Test
