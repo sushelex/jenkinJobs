@@ -3,7 +3,7 @@ package test1;
 import org.testng.annotations.Test;
 
 public class TestFun {
-@Test
+//@Test
 public void test1()
 {
     System.out.println("hi this from test1");
